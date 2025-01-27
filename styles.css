@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+h1,h2{
+	text-align:center;
+}
+li{
+	list-style-type:none;
+}
+ul{
+	background-color:white;
+	border-radius:5%;
+}
+body{
+	background-color:rgb(204,204,204)
+}
+.container{
+         background-color:white; 
+	       border-radius:10%
+	
+}
+
