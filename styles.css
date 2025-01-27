@@ -4,16 +4,43 @@ h1,h2{
 li{
 	list-style-type:none;
 }
+a{
+	text-decoration-line:none;
+}
 ul{
 	background-color:white;
-	border-radius:5%;
+	
 }
 body{
 	background-color:rgb(204,204,204)
 }
 .container{
          background-color:white; 
-	       border-radius:10%
+	       
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+	padding:10px 10px 10px 10px;
 	
 }
+.player_one{
+	background-color: rgb(255, 255, 255);
+	padding:10px 10px 10px 10px;
+	
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+	padding:10px 10px 10px 10px;
+	
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+	
+}
+.player_two{
+	background-color: rgb(255, 255, 255);
+	padding:10px 10px 10px 10px;
+	
+}
+
 
